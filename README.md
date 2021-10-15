@@ -25,7 +25,7 @@ Jogo topdown shooter, com magias
   
   
 • Sistema operacional ou plataforma em que o jogo funcionará e será publicado;
-	Windows PC / browser.
+	Windows PC / browser okay.
   
   
 • O público alvo a ser alcançado e sua classificação indicativa permitida;
